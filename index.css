@@ -1,0 +1,77 @@
+#name{
+
+	margin-top: 5px;
+	margin-left: 1%;
+	margin-right: 1%;
+	padding-right: 30%;
+
+	padding-top: 10%;
+	padding-left: 30%;
+	text-align: center;
+	color: #e57373;
+	font-size: 250%;
+	font-family: Raleway; 
+	font-weight: 900;
+}
+
+#myPic{
+	border-radius: 50%;
+	width  :12.8%;
+	height: 12.8%;
+	border:10px;
+	border-style:solid;
+	border-color: #240236;
+	border-image-width: 10px;
+}
+
+#myImage{
+	margin-top: 2%
+
+}
+
+#about{
+	margin-top: 5px;
+	color:white;
+	font-size: 150%;
+	text-align: center;
+	font-family: Raleway;
+}
+
+#wrapper{
+	width: 100%;
+	height:10%;
+	margin-left: 10px;
+
+}
+
+#button{	
+	
+
+}
+
+#but{
+	margin-top: 20px;
+	color:white;
+	font-size: 150%;
+	text-align: center;
+	font-family: Raleway;
+	background-color: #240236;
+	margin-left: 43%;
+	margin-right: 43%;
+	border-radius: 10px;
+	height: 200%;
+
+
+}
+
+.nav{
+	float: left;
+
+	color: white;
+	font-family: Raleway;
+	font-size: 150%;
+	font-weight: 900;
+
+	margin-right: 5%;
+	margin-bottom: 10px
+}
