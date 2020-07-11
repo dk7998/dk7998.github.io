@@ -1,3 +1,6 @@
+body{
+	background-color: black;
+}
 .resumeButton{
 	background-color: #240236;
 	color:#B50508;
@@ -18,7 +21,10 @@
 .resumeButton:hover{
 	transform: scale(1.2);
 }
-
+#main-wrapper{
+	width: 100%;
+	
+}
 #name{
 
 	margin-top: 5px;
@@ -44,6 +50,12 @@
 	border-style:solid;
 	border-color: #240236;
 	border-image-width: 10px;
+
+	transition: border-color 0.5s; 
+}
+
+#myPic:hover{
+	border-color: #B50508;
 }
 
 #myImage{
